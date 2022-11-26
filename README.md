@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlueLouBoyle
-- 👀 I’m interested in learning Front End Web Development and in the future, C++ with a view to creating my own games.
+- 👀 I’m interested in learning Front End Web Development and in the future, C# / Unity, with a view to creating my own games.
 - 🌱 I’m currently learning Git.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: mybluelouboyle@gmail.com
